@@ -16,4 +16,5 @@ else:
 if (num3 >largest):
   largest = num3
 
-st.write("Largest Number: " +largest)
+st.write("Largest Number: ")
+st.write(largest)
