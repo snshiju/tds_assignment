@@ -15,6 +15,5 @@ else:
 
 if (num3 >largest):
   largest = num3
-
-st.write("Largest Number: ")
-st.write(largest)
+st.write("")
+st.write("Largest Number: "+ str(largest))
